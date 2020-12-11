@@ -1,0 +1,6 @@
+module Pods_cakeRecipes {
+  umbrella header "Pods-cakeRecipes-umbrella.h"
+
+  export *
+  module * { export * }
+}
